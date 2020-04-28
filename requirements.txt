@@ -1,1 +1,1 @@
-pip
+telegram-bot
